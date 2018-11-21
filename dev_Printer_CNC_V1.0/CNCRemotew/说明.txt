@@ -1,0 +1,10 @@
+﻿
+
+条码打印机协议10/23
+加工工位   work_cnc_task_list   Print_Barcode 100 全打    1_2_3 打对应
+
+补打工位  work_cnc_task_list    Print_Barcode 120 全打     R1R2打对应
+		work_cnc_before_layout_temporary   Print_Barcode R或120打印散板
+质检工位  work_cnc_task_list   Print_Barcode  Z1Z2打对应
+		work_cnc_before_layout_temporary   Print_Barcode Z打印散板
+注:预设三台电脑,分别为雕刻机\补打工位(经理办公室)\质检工位    必须保证此三台电脑同时启动打印机程序,并选择对应工位,才能保证程序正常运行

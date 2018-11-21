@@ -1,0 +1,17 @@
+D:\邓剡梁\家具生产\Win程序\CNCRemotew-V9.0\CNCRemotew-0124\CNCRemotew\bin\x86\Release\CNCRemotew.exe.config
+D:\邓剡梁\家具生产\Win程序\CNCRemotew-V9.0\CNCRemotew-0124\CNCRemotew\obj\x86\Release\CNCRemotew.BarcodePrinter.resources
+D:\邓剡梁\家具生产\Win程序\CNCRemotew-V9.0\CNCRemotew-0124\CNCRemotew\obj\x86\Release\CNCRemotew.Properties.Resources.resources
+D:\邓剡梁\家具生产\Win程序\CNCRemotew-V9.0\CNCRemotew-0124\CNCRemotew\obj\x86\Release\CNCRemotew.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_cnc\CNCRemotew1026A-HCJ\CNCRemotew\bin\x86\Release\CNCRemotew.exe.config
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_cnc\CNCRemotew1026A-HCJ\CNCRemotew\bin\x86\Release\CNCRemotew.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_cnc\CNCRemotew1026A-HCJ\CNCRemotew\bin\x86\Release\CNCRemotew.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_cnc\CNCRemotew1026A-HCJ\CNCRemotew\bin\x86\Release\CNCRemotew.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_cnc\CNCRemotew1026A-HCJ\CNCRemotew\bin\x86\Release\CNCRemotew.pdb
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_cnc\CNCRemotew1026A-HCJ\CNCRemotew\bin\x86\Release\MySql.Data.dll
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_cnc\CNCRemotew1026A-HCJ\CNCRemotew\obj\x86\Release\CNCRemotew.BarcodePrinter.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_cnc\CNCRemotew1026A-HCJ\CNCRemotew\obj\x86\Release\CNCRemotew.Properties.Resources.resources
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_cnc\CNCRemotew1026A-HCJ\CNCRemotew\obj\x86\Release\CNCRemotew.csproj.GenerateResource.Cache
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_cnc\CNCRemotew1026A-HCJ\CNCRemotew\obj\x86\Release\CNCRemotew.exe.manifest
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_cnc\CNCRemotew1026A-HCJ\CNCRemotew\obj\x86\Release\CNCRemotew.application
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_cnc\CNCRemotew1026A-HCJ\CNCRemotew\obj\x86\Release\CNCRemotew.exe
+F:\hcj文档\资料\workspace_hcj\hanhai\Printer_cnc\CNCRemotew1026A-HCJ\CNCRemotew\obj\x86\Release\CNCRemotew.pdb
